@@ -1,3 +1,4 @@
 test file
 Some text
 echo "devops"
+test something
